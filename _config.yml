@@ -53,9 +53,9 @@ github_username:  IfrahHussein
 about_profile_image: assets/profilepic.jpeg
 about_content: | # this will include new lines to allow paragraphs
 ## Profile
-  **Work Authorization:** Canadian Citizen 
+  <mark>Work Authorization:</mark> Canadian Citizen 
 
-  **Summary:** Threat hunting, threat detection engineering, network security monitoring, incident investigation, open-source threat identification and remedy.
+  <mark>Summary:</mark> Threat hunting, threat detection engineering, network security monitoring, incident investigation, open-source threat identification and remedy.
 
   I am an open-minded, pragmatic, and optimistic individual that passionately believes that technology can change the world. I am also a highly motivated Cybersecurity Analyst with1 years of experience in IT, bridging cybersecurity frameworks and risk management. I have experience creating, developing, and maintaining cybersecurity maturity regarding product security through active engagement with engineering teams, and application owners. I have great attention to detail, with a strong focus on the incident response process.
 
