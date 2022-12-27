@@ -52,43 +52,38 @@ github_username:  IfrahHussein
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/profilepic.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  <h2><mark>Profile</mark></h2>
-  <strong>Work Authorization:</strong> Canadian Citizen 
+## Profile
+  **Work Authorization:** Canadian Citizen 
 
-<strong>Summary:</strong> Threat hunting, threat detection engineering, network security monitoring, incident investigation, open-source threat identification and remedy.</br>
-<p>
-I am an open-minded, pragmatic, and optimistic individual that passionately believes that technology can change the world. I am also a highly motivated Cybersecurity Analyst with1 years of experience in IT, bridging cybersecurity frameworks and risk management. I have experience creating, developing, and maintaining cybersecurity maturity regarding product security through active engagement with engineering teams, and application owners. I have great attention to detail, with a strong focus on the incident response process.</br>
+  **Summary:** Threat hunting, threat detection engineering, network security monitoring, incident investigation, open-source threat identification and remedy.
 
-I have previously performed system assessments, defined and worked on implementation of approved security controls, managed product related vulnerabilities and tracked any mitigations done in a timely manner. I can improve the risk acceptance process to help establish control-related procedures while working towards building relevant security metrics and dashboards.</br> 
+  I am an open-minded, pragmatic, and optimistic individual that passionately believes that technology can change the world. I am also a highly motivated Cybersecurity Analyst with1 years of experience in IT, bridging cybersecurity frameworks and risk management. I have experience creating, developing, and maintaining cybersecurity maturity regarding product security through active engagement with engineering teams, and application owners. I have great attention to detail, with a strong focus on the incident response process.
 
-I ensure that I maintain information security policies, standards, procedures, and technical security baselines as applicable.</br>
+  I have previously performed system assessments, defined and worked on implementation of approved security controls, managed product related vulnerabilities and tracked any mitigations done in a timely manner. I can improve the risk acceptance process to help establish control-related procedures while working towards building relevant security metrics and dashboards.
 
-I can monitor networks and computer systems for suspicious or unmated activity, investigate the root cause and impact of the activity, and ensure any related security issues are remediated. I excel at using a combination of technical tools, analysis techniques, intuition, and soft skills to identify, investigate, respond to, and report instances of or trends in anomalous activity.</br>
-</p>
+  I ensure that I maintain information security policies, standards, procedures, and technical security baselines as applicable.
 
-<h2><mark>Skills</mark></h2>
-<p>
-<ul>
-<li>System Administration</li>
-<li>Networking & Network Protocols</li>
-<li>Intrusion Detection</li>
-<li>Python & Javascript scripting</li>
-<li>Malware identification and analysis</li>
-<li>Vulnerability research, mitigation, and exploitation</li>
-<li>Triage incoming Threat Intelligence reports to ensure quality and accuracy for content team</li>
-<li>Web Application Penetration Testing</li>
-<li>API Penetration Testing</li>
-</ul>
-</p>
+  I can monitor networks and computer systems for suspicious or unmated activity, investigate the root cause and impact of the activity, and ensure any related security issues are remediated. I excel at using a combination of technical tools, analysis techniques, intuition, and soft skills to identify, investigate, respond to, and report instances of or trends in anomalous activity.
 
-<h2><mark>Certificates</mark></h2>
-<ul>
-<li>Cisco Cybersecurity Essentials</li>
-<li>Google Technical Support Fundamentals</li>
-<li>IBM Cybersecurity Tools & Cyber Attacks</li>
-<li>CISSP Candidate</li>
-<li>ISC² CC Candidate</li>
-</ul>
+  <mark>Skills</mark>
+   - System Administration
+   - Networking & Network Protocols
+   - Intrusion Detection
+   - Python & Javascript scripting
+   - Malware identification and analysis
+   - Vulnerability research, mitigation, and exploitation
+   - Triage incoming Threat Intelligence reports to ensure quality and accuracy for content team
+   - Web Application Penetration Testing
+   - API Penetration Testing
+
+
+<mark>Certificates</mark>
+   - Cisco Cybersecurity Essentials
+   - Google Technical Support Fundamentals
+   - IBM Cybersecurity Tools & Cyber Attacks
+   - CISSP Candidate
+   - ISC² CC Candidate
+
 
 content:
   - title: Projects # Title for the section
